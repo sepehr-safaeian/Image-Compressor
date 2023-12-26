@@ -1,7 +1,7 @@
 <!-- Replace placeholders with your actual information -->
 <h1>Go Image Compressor</h1>
 
-<img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="GitHub license">
+<img src="https://img.shields.io/badge/license-GPL--3.0-blue.svg" alt="GitHub license">
 
 <h2>Description</h2>
 
@@ -53,5 +53,4 @@
 
 <h2>License</h2>
 
-<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
-
+<p>This project is licensed under the <a href="https://www.gnu.org/licenses/gpl-3.0.html">GNU General Public License v3.0</a> - see the <a href="LICENSE">LICENSE</a> file for details.</p>
